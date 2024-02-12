@@ -1,4 +1,4 @@
-FROM taskbjorn/hexo
+FROM node:slim
 
 MAINTAINER potzedd@gmail.com
 
